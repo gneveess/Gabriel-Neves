@@ -20,6 +20,6 @@ Sou um desenvolvedor full-stack e Gerente de TI & Marketing no Instituto Formaç
 
 ### 📫 Como se conectar comigo
 - [LinkedIn](https://www.linkedin.com/in/gabriel-neves-ferreira-9a2073287/) 
-- [G-mail](gabrielneves11082006@gmail.com)
+- **G-mail** gabrielneves11082006@gmail.com
   
 
